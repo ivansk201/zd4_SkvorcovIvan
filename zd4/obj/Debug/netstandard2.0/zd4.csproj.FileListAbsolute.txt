@@ -1,0 +1,51 @@
+C:\AndroidStudio_projects\XamarinFormspr\zd4\zd4\bin\Debug\netstandard2.0\zd4.deps.json
+C:\AndroidStudio_projects\XamarinFormspr\zd4\zd4\bin\Debug\netstandard2.0\zd4.dll
+C:\AndroidStudio_projects\XamarinFormspr\zd4\zd4\bin\Debug\netstandard2.0\ref\zd4.dll
+C:\AndroidStudio_projects\XamarinFormspr\zd4\zd4\bin\Debug\netstandard2.0\zd4.pdb
+C:\AndroidStudio_projects\XamarinFormspr\zd4\zd4\obj\Debug\netstandard2.0\zd4.GeneratedMSBuildEditorConfig.editorconfig
+C:\AndroidStudio_projects\XamarinFormspr\zd4\zd4\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\AndroidStudio_projects\XamarinFormspr\zd4\zd4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\AndroidStudio_projects\XamarinFormspr\zd4\zd4\obj\Debug\netstandard2.0\zd4.AssemblyInfoInputs.cache
+C:\AndroidStudio_projects\XamarinFormspr\zd4\zd4\obj\Debug\netstandard2.0\zd4.AssemblyInfo.cs
+C:\AndroidStudio_projects\XamarinFormspr\zd4\zd4\obj\Debug\netstandard2.0\zd4.csproj.CoreCompileInputs.cache
+C:\AndroidStudio_projects\XamarinFormspr\zd4\zd4\obj\Debug\netstandard2.0\XamlC.stamp
+C:\AndroidStudio_projects\XamarinFormspr\zd4\zd4\obj\Debug\netstandard2.0\zd4.dll
+C:\AndroidStudio_projects\XamarinFormspr\zd4\zd4\obj\Debug\netstandard2.0\ref\zd4.dll
+C:\AndroidStudio_projects\XamarinFormspr\zd4\zd4\obj\Debug\netstandard2.0\zd4.pdb
+C:\AndroidStudio_projects\XamarinFormspr\zd4\zd4\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\AndroidStudio_projects\XamarinFormspr\zd4\zd4\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\AndroidStudio_projects\XamarinFormspr\zd4\zd4\obj\Debug\netstandard2.0\zd4.csproj.AssemblyReference.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zd4\zd4\bin\Debug\netstandard2.0\zd4.deps.json
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zd4\zd4\bin\Debug\netstandard2.0\zd4.dll
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zd4\zd4\bin\Debug\netstandard2.0\zd4.pdb
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zd4\zd4\obj\Debug\netstandard2.0\zd4.csproj.AssemblyReference.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zd4\zd4\obj\Debug\netstandard2.0\zd4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zd4\zd4\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zd4\zd4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zd4\zd4\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zd4\zd4\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zd4\zd4\obj\Debug\netstandard2.0\zd4.AssemblyInfoInputs.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zd4\zd4\obj\Debug\netstandard2.0\zd4.AssemblyInfo.cs
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zd4\zd4\obj\Debug\netstandard2.0\zd4.csproj.CoreCompileInputs.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zd4\zd4\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zd4\zd4\obj\Debug\netstandard2.0\zd4.dll
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zd4\zd4\obj\Debug\netstandard2.0\refint\zd4.dll
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zd4\zd4\obj\Debug\netstandard2.0\zd4.pdb
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zd4\zd4\obj\Debug\netstandard2.0\ref\zd4.dll
+C:\Users\307-04\Documents\skvotcov\zd4_SkvorcovIvan-main\zd4\bin\Debug\netstandard2.0\zd4.deps.json
+C:\Users\307-04\Documents\skvotcov\zd4_SkvorcovIvan-main\zd4\bin\Debug\netstandard2.0\zd4.dll
+C:\Users\307-04\Documents\skvotcov\zd4_SkvorcovIvan-main\zd4\bin\Debug\netstandard2.0\zd4.pdb
+C:\Users\307-04\Documents\skvotcov\zd4_SkvorcovIvan-main\zd4\obj\Debug\netstandard2.0\zd4.csproj.AssemblyReference.cache
+C:\Users\307-04\Documents\skvotcov\zd4_SkvorcovIvan-main\zd4\obj\Debug\netstandard2.0\zd4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-04\Documents\skvotcov\zd4_SkvorcovIvan-main\zd4\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\307-04\Documents\skvotcov\zd4_SkvorcovIvan-main\zd4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\307-04\Documents\skvotcov\zd4_SkvorcovIvan-main\zd4\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\307-04\Documents\skvotcov\zd4_SkvorcovIvan-main\zd4\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\307-04\Documents\skvotcov\zd4_SkvorcovIvan-main\zd4\obj\Debug\netstandard2.0\zd4.AssemblyInfoInputs.cache
+C:\Users\307-04\Documents\skvotcov\zd4_SkvorcovIvan-main\zd4\obj\Debug\netstandard2.0\zd4.AssemblyInfo.cs
+C:\Users\307-04\Documents\skvotcov\zd4_SkvorcovIvan-main\zd4\obj\Debug\netstandard2.0\zd4.csproj.CoreCompileInputs.cache
+C:\Users\307-04\Documents\skvotcov\zd4_SkvorcovIvan-main\zd4\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\307-04\Documents\skvotcov\zd4_SkvorcovIvan-main\zd4\obj\Debug\netstandard2.0\zd4.dll
+C:\Users\307-04\Documents\skvotcov\zd4_SkvorcovIvan-main\zd4\obj\Debug\netstandard2.0\refint\zd4.dll
+C:\Users\307-04\Documents\skvotcov\zd4_SkvorcovIvan-main\zd4\obj\Debug\netstandard2.0\zd4.pdb
+C:\Users\307-04\Documents\skvotcov\zd4_SkvorcovIvan-main\zd4\obj\Debug\netstandard2.0\ref\zd4.dll
